@@ -7,6 +7,15 @@
 	text-align: center;
 }
 
+#centertext{
+	text-align: center;
+}
+
+#floatright{
+	text-align: right;
+	color: pink;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
