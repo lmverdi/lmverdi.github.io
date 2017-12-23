@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: about/
+  - title: "My Work"
+    url: work  
   - title: "My Schedule"
     url: /schedule
   # - title: "Sample Collections"
