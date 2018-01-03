@@ -8,4 +8,16 @@ author_profile: false
 	<div>
 		<p id ="centertext">Hello there! I'm Lisa Reyes and I have dedicated my life to the human body and help others achieve the happy bodies they've been striving for. </p>
 	</div>
+
+	<div>
+		<ul>
+			<h1 id="centertext">RECENT POSTS:</h1>
+  			{% for post in site.posts %}
+    		<li id="centertext">
+      			<a href="{{ post.url }}">{{ post.title }}</a>
+    		</li>
+    		<p><meta name="description" content="{% if page.description %}{{ page.description }}{% endif %}"></p>
+  			{% endfor %}
+		</ul>
+	</div>
 </div>
