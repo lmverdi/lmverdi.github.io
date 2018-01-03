@@ -1,11 +1,10 @@
 ---
 layout: single
 title: "The Basics of Acupunture"
+description: Isn't acupunture a fake medicine? What else is there to it?
 date: 2018-01-02 
 categories: acupunture
 ---
-
-<h1>The Basics of Acupunture</h1>
 
 <p>He thinks that man is me,
 he knew him at a glance.
