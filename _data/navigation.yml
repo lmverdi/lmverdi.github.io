@@ -4,8 +4,6 @@ main:
     url: about/
   - title: "My Work"
     url: work  
-  - title: "My Schedule"
-    url: /schedule
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
